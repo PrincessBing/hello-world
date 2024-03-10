@@ -21,7 +21,7 @@
 
 #### 集群架构组件
 
-<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240309002425279.png" alt="image-20240309002425279" style="zoom: 67%;" />
+<img src="E:\Document\gitpro\新建文件夹\hello-world\image\image-20240309002425279.png" alt="image-20240309002425279" style="zoom: 67%;" />
 
 **说明：**
 
@@ -146,7 +146,7 @@ RoleBinding-->ClusterRoleBinding
 
 环境要求：
 
-![image-20240309164203940](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240309164203940.png)
+![image-20240309164203940](E:\Document\gitpro\新建文件夹\hello-world\image\k8s.md)
 
 （1）基于客户端工具kubeadm
 
