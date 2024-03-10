@@ -21,7 +21,7 @@
 
 #### 集群架构组件
 
-<img src="E:\Document\hello-world\image\image-20240309002425279.png" alt="image-20240309002425279" style="zoom: 67%;" />
+<img src="image\image-20240309002425279.png" alt="image-20240309002425279" style="zoom: 67%;" />
 
 **说明：**
 
